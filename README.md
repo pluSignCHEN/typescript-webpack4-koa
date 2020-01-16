@@ -4,7 +4,7 @@
 
 需要执行:
 
-  npm i 或 yarn i
+  npm i
 
 及
 
