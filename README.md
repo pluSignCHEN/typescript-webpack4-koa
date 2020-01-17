@@ -8,7 +8,7 @@
 
 及
 
-  npm i -g typescript webpack webpack-cli cross_env
+  npm i -g typescript webpack webpack-cli cross-env
 
 现在，可以在本项目的基础上使用typescript编写您的koa程序
 
